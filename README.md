@@ -66,6 +66,8 @@ To run the training and testing code on your local machine, follow these steps:
 1. **Download and Unzip Datasets:**  
    Download both the test and training datasets and the pretrained weights using the provided links and unzip them.
 
+   Unzip the pretrained models, and place them in `models/` folder.
+
 2. **Organize the Training Dataset:**  
    Ensure that the training dataset is structured as shown below (create folders manually if needed):
 

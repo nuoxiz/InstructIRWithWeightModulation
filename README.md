@@ -42,8 +42,7 @@ Before running the Colab notebooks, configure your Google Drive as follows:
    In your Google Drive, create a new folder named `FYPData`.
 
 2. **Upload the Models:**  
-   Copy the entire `models/` folder from this repository into the `FYPData` folder.
-
+   Down load the pretrained models using the link above. Create a folder called `models/` in `FYPData` and upload the pretrained models to this folder.
 3. **Test Dataset:**
 
    - Download and unzip the test dataset.
